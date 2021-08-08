@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on many future projects.
 - 📫 How to reach me ... oniquecampbell@yahoo.com
 - 👀 Possess Network, Technical, Financial and Python Knowledge, Obtained Certifications in Network+, Quality Assurance Management (Advanced), and hold a proud           Higher Distinction in Accounting, With an Advanced Diploma in Business Management.
+- 💞️ I possess high level industry experience within the Customer Service sector (land based and sea based), which is a plus coupled with the drive to excel and           exceed expectations.
 
 <!---
 Onique-Unique/Onique-Unique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
