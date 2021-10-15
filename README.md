@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onique-Campbell, Nice to meet you.
 -     Have a look around and share your interest with me. Thank you for visiting my GitHub Profile.👋
-- 👀 I’m interested in Finance, Technical Information Technology, Python Coding and Quality Assurance 
+- 👀 High interest in Finance, Technical Information Technology, Administration, Python Coding and Quality Assurance 
 - 🌱 I’m currently learning Networking, Structured Query Language and increasing Python Knowledge 
 - 💞️ I’m looking to collaborate on many future projects.
 - 📫 How to reach me ... oniquecampbell@yahoo.com
