@@ -6,6 +6,7 @@
 - 📫 How to reach me ... oniquecampbell@yahoo.com
 - 👀 Possess Network, Technical: Operating System/ Troubleshooting, Financial: Accounting, Medical: Coding/ Billing and Python Knowledge, Obtained Certifications in Network+, Computer Systems/ Troubleshooting, Quality Assurance Management (Advanced), Medical Coding/ Billing and hold a proud Higher Distinction in Accounting, With an Advanced Diploma in Business Management.
 - 💞️ I possess high level industry experience within the Customer Service sector (land based and sea based), which is a plus coupled with my drive to excel and           exceed expectations.
+- https://jm.linkedin.com/in/onique-campbell-1091b576
 
 <!---
 Onique-Unique/Onique-Unique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
