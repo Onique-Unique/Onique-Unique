@@ -26,7 +26,6 @@ But not limited to:
 
 ## Personal Quote 📜
 - ## ⚡ Tech is ever evolving, 🛠️ Trust the ones that evolve with it.
- 
 <!---
 Onique-Unique/Onique-Unique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
