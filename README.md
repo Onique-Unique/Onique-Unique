@@ -4,7 +4,7 @@ Linkedin
 - <div  class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="onique-campbell-1091b576" data-version="v1"> 👋 Hi, I’m <a class="badge-base__link LI-simple-link" href="https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge"> Onique</a> Nice to meet you.</div> 
 -     Have a look around and share your interest with me. Thank you for visiting my GitHub Profile.👋
 #### I am a Tech Enthusiast with Industry Knowledge and Skills
-![I am a Tech Enthusiast with Industry Knowledge and Skills](https://user-images.githubusercontent.com/87822768/138556055-d40371f3-cc2a-45a7-9f66-b574a7208d47.jpg)
+<img src= "https://user-images.githubusercontent.com/87822768/138556055-d40371f3-cc2a-45a7-9f66-b574a7208d47.jpg" width= "1000px" height= "250px"></img> 
 ## Skills, Knowledge & Experience 📖
 But not limited to:
 
