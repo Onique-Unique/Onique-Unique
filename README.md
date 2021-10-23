@@ -1,6 +1,6 @@
 ## Onique Campbell 🖊️ 
 Linkedin 💼 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Onique-Unique) <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='20'></a>
 - <div  class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="onique-campbell-1091b576" data-version="v1"> 👋 Hi, I’m <a class="badge-base__link LI-simple-link" href="https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge"> Onique</a> Nice to meet you.</div> 
 -     Have a look around and share your interest with me. Thank you for visiting my GitHub Profile.👋
 #### I am a Tech Enthusiast with Industry Knowledge and Skills
