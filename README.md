@@ -1,5 +1,7 @@
-## Onique Campbell 🖊️
-- 👋 Hi, I’m Onique, Nice to meet you.
+## Onique Campbell 🖊️ 
+Linkedin 💼 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge/) 
+- <div  class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="onique-campbell-1091b576" data-version="v1"> 👋 Hi, I’m <a class="badge-base__link LI-simple-link" href="https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge"> Onique</a> Nice to meet you.</div> 
 -     Have a look around and share your interest with me. Thank you for visiting my GitHub Profile.👋
 #### I am a Tech Enthusiast with Industry Knowledge and Skills
 ![I am a Tech Enthusiast with Industry Knowledge and Skills](https://www.stu.edu/wp-content/uploads/sites/3/2020/06/Graph-Banner2.png)
@@ -24,13 +26,7 @@ But not limited to:
 
 ## Personal Quote 📜
 - ## ⚡ Tech is ever evolving, 🛠️ Trust the ones that evolve with it.
-
-
-## Linkedin 💼 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge/) <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="onique-campbell-1091b576" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge">Onique Campbell</a></div> 
-  
-
-
+ 
 <!---
 Onique-Unique/Onique-Unique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
