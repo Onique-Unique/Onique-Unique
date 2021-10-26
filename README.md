@@ -8,7 +8,7 @@ Linkedin
 ## Skills, Knowledge & Experience 📖
 But not limited to:
 
-- 🐍 PYTHON 💻 JAVASCRIPT 🌐 HTML 🎨 CSS  📊 POWER BI 😊 Customer Support 📶 Network+ 🌡️ Medical-Coding 🏦 Finance
+- 🐍 PYTHON 💻 JAVASCRIPT 🌐 HTML 🎨 CSS  📊 POWER BI 😊 Customer Experience 📶 Network+ 🌡️ Medical-Coding 🏦 Finance
 
 ## Tools 🔨
 But not limited to:
