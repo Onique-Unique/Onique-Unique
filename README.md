@@ -16,7 +16,7 @@ But not limited to:
 
 ## About me 📋
 - 👀 High interest in Finance, Technical Information Technology, Administration, Python Coding and Quality Assurance 
-- 🌱 I’m currently learning Javascript, Structured Query Language and increasing Python Knowledge 
+- 🌱 Currently increasing Javascript, Structured Query Language and Python Knowledge 
 - 💞️ I’m looking to collaborate on many future projects.
 - 📫 How to reach me ... oniquecampbell@yahoo.com
 - 👀 Possess Network, Technical: Operating System/ Troubleshooting, Financial: Accounting, Medical: Coding/ Billing and Python Knowledge, Obtained Certifications in Network+, Computer Systems/ Troubleshooting, Quality Assurance Management (Advanced), Medical Coding/ Billing and hold a proud Higher Distinction in Accounting, With an Advanced Under-Graduate Diploma in Business Management.
