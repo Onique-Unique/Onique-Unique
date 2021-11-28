@@ -1,4 +1,4 @@
-## Onique Campbell 🖊️  <a href="www.feenixbloom.com"><span> #### portfolio</span></a>
+## Onique Campbell 🖊️  #### <a href="www.feenixbloom.com"><span>portfolio</span></a>
 Linkedin
 [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' height='30'>](https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge") [<img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' alt='github' height='20'>](https://github.com/Onique-Unique) <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='20'></a>
 - <div  class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="onique-campbell-1091b576" data-version="v1"> 👋 Hi, I’m <a class="badge-base__link LI-simple-link" href="https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge" target="_blank"> Onique</a> Nice to meet you.</div> 
