@@ -1,7 +1,7 @@
-<nav>
+<div>
   <h3> Onique Campbell 🖊️</h3> 
   <h5><a href="www.feenixbloom.com">portfolio</a></h5>
-</nav>
+</div>
 
 Linkedin
 [<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' alt='linkedin' height='30'>](https://jm.linkedin.com/in/onique-campbell-1091b576?trk=profile-badge") [<img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' alt='github' height='20'>](https://github.com/Onique-Unique) <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='20'></a>
