@@ -1,6 +1,5 @@
 <div>
-  <h3> Onique Campbell 🖊️</h3> 
-  <h5><a href="www.feenixbloom.com">portfolio</a></h5>
+  <h3> Onique Campbell 🖊️</h3> <span><h5><a href="www.feenixbloom.com">portfolio</a></h5></span>
 </div>
 
 Linkedin
